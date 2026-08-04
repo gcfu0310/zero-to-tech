@@ -23,5 +23,8 @@
   "homepage": "https://github.com/gcfu0310/zero-to-tech#readme",
   "devDependencies": {
     "vite": "^8.2.0"
+  },
+  "dependencies": {
+    "animejs": "^4.5.0"
   }
 }
