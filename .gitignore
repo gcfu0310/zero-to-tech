@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Vite build output
+dist/
+
+# Editor settings
+.vscode/
+
+# Environment and logs
+.env
+.env.*
+*.log
