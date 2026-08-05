@@ -1,13 +1,19 @@
-# Dependencies
+# dependencies
 node_modules/
 
-# Vite build output
+# next.js
+.next/
+out/
+
+# production
+build/
 dist/
 
-# Editor settings
-.vscode/
+# editor
+.vscode/*
+!.vscode/extensions.json
 
-# Environment and logs
-.env
-.env.*
+# misc
+.DS_Store
 *.log
+.env*
